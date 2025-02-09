@@ -2,7 +2,6 @@
 Para fins educacionais foi criado esse formulário de candidatura simplificado utilziando nextJs 15, Zustand para gerenciamento de estados ( que substituiu completamente o meu uso de context para esse tipo de manipulação) e o zod para validação de esquema. Esse formulário captura informações pessoais, de experiência e historico dos candidados, realiza a validação etapa a etapa e realiza o submit final criando uma estrutura de dados filtrada. Enquanto isso o cva e clsx realiza a manipulação de classes para fins esteticos no uso do tailwind garantindo uma maior interatividade com o usuario
 
 ![Texto Alternativo](/lib01/img/aplication.png)
-![Texto Alternativo](/image.png)
 
 # Como rodar 
     npm run dev
